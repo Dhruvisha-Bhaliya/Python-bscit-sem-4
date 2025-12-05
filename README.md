@@ -1,65 +1,65 @@
-Python - B.Sc IT Sem 4
+Python – B.Sc IT Sem 4
 Assignments
 
-dhruvisha_1
+✔️ dhruvisha_1
 
-dhruvisha_2 (1)
+✔️ dhruvisha_2 (1)
 
-dhruvisha_3
+✔️ dhruvisha_3
 
-dhruvisha_4
+✔️ dhruvisha_4
 
-dhruvisha_5
+✔️ dhruvisha_5
 
-dhruvisha_6 (2)
+✔️ dhruvisha_6 (2)
 
-dhruvisha_7
+✔️ dhruvisha_7
 
-dhruvisha_8
+✔️ dhruvisha_8
 
-dhruvisha_9 (1)
+✔️ dhruvisha_9 (1)
 
-dhruvisha_10
+✔️ dhruvisha_10
 
 Self Practice – B.Sc IT Sem 2
 Programs
 
-addtwonumbers
+🔹 addtwonumbers
 
-areaofrectangle
+🔹 areaofrectangle
 
-digits
+🔹 digits
 
-eligiblevote
+🔹 eligiblevote
 
-evenodd
+🔹 evenodd
 
-first
+🔹 first
 
-gradesmarks
+🔹 gradesmarks
 
-greatertwonum
+🔹 greatertwonum
 
-greaterthreenum
+🔹 greaterthreenum
 
-largestthreenum
+🔹 largestthreenum
 
-leapyear
+🔹 leapyear
 
-lecture1
+🔹 lecture1
 
-lecture2
+🔹 lecture2
 
-lecture3
+🔹 lecture3
 
-lecture4
+🔹 lecture4
 
-meterintocm
+🔹 meterintocm
 
-multiplicationtableloops
+🔹 multiplicationtableloops
 
-numpositiveorneg
+🔹 numpositiveorneg
 
-simpleinterest
+🔹 simpleinterest
 
-swapnum
+🔹 swapnum
